@@ -16,3 +16,7 @@ const b : number = 20
 console.log(a===b)
 console.log(a>b)
 console.log(a<=b)
+
+
+
+
