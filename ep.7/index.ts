@@ -19,7 +19,7 @@ console.log(myStudents)
 console.log(myStudentsArray[0])
 
 
-*ข้อสอบ
+
 const fullName: string = 'สุดสวย สวยสุด'
 
 console.log(fullName.split('')[0])

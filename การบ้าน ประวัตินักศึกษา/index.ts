@@ -1,8 +1,8 @@
 const me = {
     firstName: 'Traikun',
     LastName : 'Markpoka',
-    age: 1000
-    cam: 17/17,
+    age: 1000,
+    address: 17/17,
     swime: 77,
     road: 'kingdom',
     zone: 'area181',
