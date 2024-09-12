@@ -77,15 +77,3 @@ nicknameArray.reverse() // เรียง ฮ - ก
 console.log(nicknameArray)
 
 
-
-const me = {
-    firstName: 'Traikun',
-    LastName : 'Markpoka',
-    age: 1000
-}
-
-// ประวัติส่วนตัว
-
-// ชื่อ : Traikun 
-// นามสกุล: Markpoka 
-// อายุ: 1000
