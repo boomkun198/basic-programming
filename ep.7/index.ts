@@ -13,10 +13,10 @@ console.log("Avg: ",avg)
 
 const myStudent: string = "เซน,แทน,เวฟ,รุ้ง,แท็ค,สร"
 
-const myStudentArray: string[] = myStudents.split(',')
+const myStudentArray: string[] = myStudent.split(',')
 
-console.log(myStudents)
-console.log(myStudentsArray[0])
+console.log(myStudent)
+console.log(myStudentArray[0])
 
 
 
@@ -76,4 +76,39 @@ console.log(nicknameArray)
 nicknameArray.reverse() // เรียง ฮ - ก
 console.log(nicknameArray)
 
+
+
+
+const me = {
+    firstName: 'Traikun',
+    LastName : 'Markpoka',
+    age: 1000,
+    cam: 700/999,
+    swime: 112,
+    road: 'allline',
+    zone: 'wisdom789',
+    county: 'hiphop',
+    province: 'silver',
+    zipcode: 59871,
+    email: 'simson456@gmail.com',
+    mobilephone: 'mom',
+    phonenumber: 1150,
+
+
+}
+
+// ประวัติส่วนตัว
+
+// ชื่อ : Traikun 
+// นามสกุล: Markpoka 
+// อายุ: 1000
+// ที่อยู่ปัจจุบัน: 700/999
+// หมู่ที่: 112
+// ตำบล/แขวง: 
+// อำเภอ/เขต: 
+// จังหวัด: 
+// รหัสไปรษณีย์: 59871
+// อีเมล: simson456@gmail.com
+// มือถือ: mom
+// เบอร์: 1150
 
